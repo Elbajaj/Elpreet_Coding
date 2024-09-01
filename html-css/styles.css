@@ -1,0 +1,12 @@
+body {
+  background-color: #D4BEBE;
+  border-style: ridge;
+  border-color: #A09ABC;
+  font-family: "Kalnia Glaze", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: bold;
+  font-size: xx-large;
+  font-variation-settings:
+    "wdth" 100;
+}
