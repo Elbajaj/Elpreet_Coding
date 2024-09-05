@@ -1,0 +1,56 @@
+body {
+
+    background-color: #eae2b7;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
+}
+
+section {
+    padding: 20px;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    color: #003049;
+    font-family: "Kalnia Glaze", serif;
+    font-size: 40px;
+
+}
+
+h2,
+h3 {
+    font-size: 35px;
+}
+
+p {
+    text-align: left;
+    color: blue;
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
+}
+
+ul {
+    padding-left: 40px;
+    list-style-type: none;
+}
+
+ul li {
+    padding-left: 20px;
+    background-image: url(cheese2.png);
+    background-position: 0 0;
+    background-size: 1.6rem, 1.6rem;
+    background-repeat: no-repeat;
+}
+
+nav {
+    background-color: #FCBF49;
+    width: 100%;
+    margin: 0px;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+}
