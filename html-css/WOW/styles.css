@@ -36,7 +36,7 @@ ul {
     list-style-type: none;
 }
 
-ul li {
+.cheese-icon {
     padding-left: 20px;
     background-image: url(cheese2.png);
     background-position: 0 0;
@@ -55,7 +55,7 @@ nav ul li {
     list-style-type: none;
 }
 
-nav>ul>li {
+nav>ul>li>a {
     color: #ffffff;
     display: block;
     padding: 35px;
