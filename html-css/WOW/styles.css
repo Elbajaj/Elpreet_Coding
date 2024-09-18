@@ -77,7 +77,12 @@ td {
     padding: 20px;
 }
 
-th {
+th,
+td {
     font-size: 20px;
     background-color: #FCBF49;
+}
+footer{
+    margin-top: 70px;
+    text-align: center;
 }
