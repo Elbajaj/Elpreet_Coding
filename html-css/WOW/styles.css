@@ -115,3 +115,14 @@ figure {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.width-25 {
+    float: left;
+    width: 25%;
+
+}
+
+.width-75 {
+    float: left;
+    width: 75%  
+}
