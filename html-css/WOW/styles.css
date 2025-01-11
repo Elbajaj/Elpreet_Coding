@@ -110,7 +110,7 @@ figure {
 
 #hero {
     background-image: url(Cheese-and-Kirbys.webp);
-    height: 1024;
+    height: 1024px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
