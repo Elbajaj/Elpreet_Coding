@@ -1,0 +1,22 @@
+.container1 {
+    font-family: "Nabla", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "EDPT" 100,
+        "EHLT" 12;
+    font-size: 4rem;
+}
+
+.container2 {
+    text-align: center;
+    text-align: center;
+    font-family: "Kalnia Glaze", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 2rem;
+}
