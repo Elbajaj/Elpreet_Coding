@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-color: #111;
+    color: #0f0;
+    text-align: center;
+}
+
+#gameArea {
+    width: 600px;
+    height: 400px;
+    margin: 20px auto;
+    border: 2px solid #0f0;
+    background-color: #000;
+    position: relative;
+    overflow: hidden;
+}
+
+#alien {
+    width: 100px;
+    position: absolute;
+    left: 270px;
+    top: 170px;
+    transition: left 0.1s, top 0.1s;
+}
+
+#star {
+    width: 40px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
